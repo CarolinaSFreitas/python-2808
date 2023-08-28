@@ -71,9 +71,23 @@ Usando alguns exemplos da doc da página (https://pillow.readthedocs.io/en/stabl
 5. Para não ficar repetindo esse for i, pode usar um for dentro do outro:
 ![image](https://github.com/CarolinaSFreitas/python-2808/assets/99994934/0ad2e1c9-056c-494d-b2ba-3c34411ba2e7)
 
-## Exercícios | Ex. - 1 Bandeira de Bolívia
+## Exercícios | Ex. 1 - Bandeira de Bolívia
 
-Arquivo exercicio1.py
+Arquivo exercicio1.py e saída:
+
+![image](https://github.com/CarolinaSFreitas/python-2808/assets/99994934/e39fb310-50ec-4458-a5f4-cacdd18add65)
+
+## Ex. 2 - Bandeira da Noruega
+
+Arquivo exercicio2.py e saída:
+
+![image](https://github.com/CarolinaSFreitas/python-2808/assets/99994934/af78fd06-359a-4e5e-b53f-d155c10a9518)
+
+## Ex. 3 - Bandeira do Sudão
+
+Arquivo exercicio3.py e saída:
+
+![image](https://github.com/CarolinaSFreitas/python-2808/assets/99994934/74913a26-4b7a-4a7f-a99b-97505446923d)
 
 
 
